@@ -21,3 +21,4 @@ Der udvikles et søgefelt til søgning gennem alle lagene tilknyttet siden (lidt
 ## 9. Tilsagn/tilkendegivelse
 Kerteminde ++
 Geopartner +
+Furesø +
