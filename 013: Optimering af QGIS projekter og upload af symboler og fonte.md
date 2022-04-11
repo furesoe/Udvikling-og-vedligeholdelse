@@ -30,6 +30,7 @@ Efter min erfaring performer embed af svg symboler fint, projektfilerne bliver s
 ## 9. Tilsagn/tilkendegivelse
 MapCentia++  
 Kerteminde +
+Furesø +
 
 ## Forfatter
 Martin Høgh, MapCentia   
