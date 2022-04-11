@@ -35,3 +35,4 @@ Fx a la:
 
 ## 9. Tilsagn/tilkendegivelse
 Geo Fyn ++ (hård deadline ultimo marts - så Geo Fyn tager den gerne alene).
+Furesø++
