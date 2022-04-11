@@ -28,7 +28,8 @@ Efter min erfaring performer embed af svg symboler fint, projektfilerne bliver s
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
-MapCentia++  
+MapCentia++
+Furesø++
 Kerteminde +
 
 ## Forfatter
