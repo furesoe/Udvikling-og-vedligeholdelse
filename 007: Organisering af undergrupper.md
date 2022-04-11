@@ -30,3 +30,4 @@ Geo Fyn ++
 MapCentia ++  
 Kerteminde ++  
 GEOsmeden ++
+Furesø ++
