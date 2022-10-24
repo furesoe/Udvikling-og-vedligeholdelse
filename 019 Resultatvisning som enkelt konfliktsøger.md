@@ -55,3 +55,4 @@ Kan laves som template + extension
 ## 8. Issue tracker  
 
 ## 9. Tilsagn/tilkendegivelse
+Furesø ++
